@@ -1,0 +1,4 @@
+NewsFamous
+==========
+
+News of famous
